@@ -1,0 +1,27 @@
+[submodule "ResIL"]
+	path = ResIL
+	url = https://github.com/Enseed/ResIL.git
+[submodule "openexr"]
+	path = openexr
+	url = https://github.com/openexr/openexr.git
+[submodule "libtiff"]
+	path = libtiff
+	url = https://github.com/Enseed/libtiff.git
+[submodule "libpng"]
+	path = libpng
+	url = https://github.com/Enseed/libpng.git
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/Enseed/zlib.git
+[submodule "libjpeg-turbo"]
+	path = libjpeg-turbo
+	url = https://github.com/Enseed/libjpeg-turbo.git
+[submodule "libmng"]
+	path = libmng
+	url = https://github.com/Enseed/libmng.git
+[submodule "lcms2"]
+	path = lcms2
+	url = https://github.com/Enseed/lcms2.git
+[submodule "jasper"]
+	path = jasper
+	url = https://github.com/Enseed/jasper.git
