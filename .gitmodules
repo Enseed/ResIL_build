@@ -25,3 +25,9 @@
 [submodule "jasper"]
 	path = jasper
 	url = https://github.com/Enseed/jasper.git
+[submodule "jxrlib"]
+	path = jxrlib
+	url = https://github.com/Enseed/jxrlib.git
+[submodule "HDPhoto"]
+	path = HDPhoto
+	url = https://github.com/Enseed/HDPhoto.git
