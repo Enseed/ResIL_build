@@ -31,3 +31,6 @@
 [submodule "HDPhoto"]
 	path = HDPhoto
 	url = https://github.com/Enseed/HDPhoto.git
+[submodule "build/staging"]
+	path = build/staging
+	url = https://github.com/Enseed/ResIL_bin.git
